@@ -17,5 +17,5 @@
 
 > 
 > 
->![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tim-it-ger&show_icons=true&hide_border=true)
->![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-it-ger&amp;layout=compact)
+>![Tim's github stats](https://github-readme-stats.vercel.app/api?username=timdev-ger&show_icons=true&hide_border=true)
+>![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timdev-ger&amp;layout=compact)
