@@ -1,21 +1,52 @@
-> # Tim #
->
->### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello welcome to my page!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
->
-><p>
-> <em>
->   A hard working <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Gamer,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>encouraged</b>
->   with the idea of <b>improving</b> himself and wants a <b>platform </b> to 
->   <b>grow </b>and 
->    <b>excel at.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
->  </em>  
-> </p>
->
->
-> <br>
->
+# 👋 Hi, I'm Tim  
 
-> 
-> 
->![Tim's github stats](https://github-readme-stats.vercel.app/api?username=timdev-ger&show_icons=true&hide_border=true)
->![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timdev-ger&amp;layout=compact)
+### 🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner  
+
+I'm a passionate **Full Stack Developer** who loves building scalable applications, exploring new technologies, and improving myself day by day.  
+Besides coding, you'll probably find me gaming, experimenting with new tools, or learning something fresh to sharpen my skills.  
+
+---
+
+## 🔧 Tech Stack  
+
+**Languages:**  
+💻 JavaScript | TypeScript | Python | Java | C++  
+
+**Frontend:**  
+⚡ React | Next.js | Vue | HTML | CSS | TailwindCSS  
+
+**Backend:**  
+🛠 Node.js | Express | Spring Boot | Django  
+
+**Databases:**  
+🗄 MySQL | PostgreSQL | MongoDB | Firebase  
+
+**Tools & Others:**  
+🐳 Docker | Git | GitHub Actions | Linux | REST & GraphQL APIs  
+
+---
+
+## 📈 GitHub Stats  
+
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timdev-ger&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdev-ger&layout=compact&theme=tokyonight)  
+
+---
+
+## 🎯 About Me  
+
+- 🔭 Currently working on: Full Stack projects & experimenting with new frameworks  
+- 🌱 Learning: **Cloud Development** & **DevOps**  
+- 🎮 Fun fact: I can code for hours straight if there's good music 🎧  
+- 🥅 2025 Goal: Contribute more to **Open Source**  
+
+---
+
+## 📬 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)  
+
+---
+✨ _"Code. Learn. Build. Repeat."_ ✨
