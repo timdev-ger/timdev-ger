@@ -10,7 +10,7 @@ Besides coding, you'll probably find me gaming, experimenting with new tools, or
 ## 🔧 Tech Stack  
 
 **Languages:**  
-💻 JavaScript | TypeScript | Python | Java | C++ | C# | lua
+💻 JavaScript | TypeScript | Python | Java | C++ | C | C# | lua
 
 **Frontend:**  
 ⚡ React | Next.js | Vue | HTML | CSS | TailwindCSS  
