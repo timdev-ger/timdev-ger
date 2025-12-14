@@ -44,9 +44,7 @@ Besides coding, you'll probably find me gaming, experimenting with new tools, or
 
 ## 📬 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-querengässer-3289181b9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://timdev.info)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@timdev.info)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-querengässer-3289181b9)[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://timdev.info)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@timdev.info)  
 
 ---
 ✨ _"Code. Learn. Build. Repeat."_ ✨
