@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/timdev511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timdev511" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tim-querengässer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-querengässer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tim-querengässer-3289181b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-querengässer" height="30" width="40" /></a>
 <a href="https://instagram.com/timdev511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timdev511" height="30" width="40" /></a>
 </p>
 
