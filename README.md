@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timdev-ger&label=Profile%20views&color=0e75b6&style=flat" alt="timdev-ger" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timdev-ger" alt="timdev-ger" /></a> </p>
-
 - 🔭 I’m currently working on **open source projects**
 
 - 🌱 I’m currently learning **Cyber Security**
