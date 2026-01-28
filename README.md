@@ -9,9 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://timdev.info](https://timdev.info)
-
-- 💬 Ask me about **javascript, typescript, python and c#**
+- 💬 Ask me about **javascript, typescript and python**
 
 - 📫 How to reach me **contact@timdev.info**
 
