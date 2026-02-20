@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://raw.githubusercontent.com/timdev-ger/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="timdev-ger" /></p>
 
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/timdev-ger/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="timdev-ger" /></p>
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/timdev-ger/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="timdev-ger" /></p>
