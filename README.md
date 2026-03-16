@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **open source projects**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Zig**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
