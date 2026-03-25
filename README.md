@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=timdev-ger" alt="timdev-ger" /></p>
 
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/timdev-ger/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="timdev-ger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdev-ger" alt="timdev-ger" /></p>
