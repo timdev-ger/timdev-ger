@@ -24,6 +24,6 @@
 
 <h3 align="left">Languages and Overview:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=timdev-ger" alt="timdev-ger" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=timdev-ger&theme=radical" alt="timdev-ger" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdev-ger" alt="timdev-ger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdev-ger&theme=radical" alt="timdev-ger" /></p>
