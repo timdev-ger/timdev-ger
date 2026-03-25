@@ -24,6 +24,6 @@
 
 <h3 align="left">Languages and Overview:</h3>
 
-<p><img align="left" src="https://raw.githubusercontent.com/timdev-ger/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="timdev-ger" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=timdev-ger" alt="timdev-ger" /></p>
 
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/timdev-ger/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="timdev-ger" /></p>
